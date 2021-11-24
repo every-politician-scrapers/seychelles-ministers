@@ -1,2 +1,17 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
-Q27914753,Macsuzy Mondon,Macsuzy Mondon,female,1950-01-01,9,,,Q98966159,Minister of Health,Q27914753-bc3ee4eb-4fc4-e8f4-969c-1683b191c2a8
+Q101005240,Mr. Naadir HASSAN,Naadir Hassan,male,1981-01-01,9,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q104853126,"Minister for Finance, Economic Planning & Trade",Q101005240-607FAFC7-F35C-4A84-B8DC-4EC327230DC7
+Q101007296,Dr Justin VALENTIN,Justin Valentin,male,1971-04-14,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703830,Minister of Education,Q101007296-FAD3E0B1-B15A-41BF-ADAC-0BDA1B8FF1E1
+Q101038872,Mrs. Peggy VIDOT,Peggy Vidot,female,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q98966159,Minister for Health,Q101038872-9B5FEFB2-F1CD-42E7-B65E-7732FB6B832D
+Q101110528,Mr Sylvestre RADEGONDE,Sylvestre Radegonde,male,1956-03-16,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q6865848,Minister of Foreign Affairs and Tourism,Q101110528-1A293311-25E4-4C11-B292-DD63BDC6CE08
+Q101198632,Mrs Patricia FRANCOURT,Patricia Francourt,female,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703794,Minister for Employment and Social Affairs,Q101198632-B53ECDB2-D574-41D9-A087-A11B81FE90F3
+Q101198923,Mrs Devika VIDOT,Devika Vidot,female,1988-11-18,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703901,"Minister for Investment, Entrepreneurship and Industry",Q101198923-3DAA8517-7A69-4101-A4D9-EF15A96BAFB7
+Q109703822,Mr Errol FONSEKA,Errol Fonseka,male,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703824,Minister for Internal Affairs,Q109703822-275E9967-F348-4303-885D-143CCC69703A
+Q109703838,Mr Flavien JOUBERT,Flavien Joubert,male,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703840,"Minister for Agriculture, Climate Change and Environment",Q109703838-0733B6F7-D50E-4C2A-B35D-6DBB6ADDAAB6
+Q109703887,Mr. Antony DERJACQUES,Antony Derjacques,male,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703889,Minister for Transport,Q109703887-11C2B3D9-3126-4E2F-893E-2BDEAA01021C
+Q109703892,Mrs Rose Marie HOAREAU,Rose-Marie Hoareau,female,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703895,Minister for Local Government and Community Affairs,Q109703892-BE532FBE-02C2-41B5-82D7-40CF16BC8E48
+Q109703904,Mrs Marie-Céline ZIALOR,Marie-Celine Zialor,female,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703905,"Minister for Youth, Sports and Family",Q109703904-CA07EBFD-AC96-4065-A67B-45D6781DBA3F
+Q109703973,Mr Billy RANGASAMY,Billy Rangasamy,male,,,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703974,Minister of Lands and Housing,Q109703973-07A5DBEE-F449-454A-A618-C9F9ACED7075
+Q1568174,Wavel Ramkalawan,Wavel Ramkalawan,male,1961-03-15,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q18463915,President of the Republic of Seychelles,Q1568174-a2bfb234-42c2-bb02-ec26-615f490c4ecd
+Q6169248,Mr. Jean-François FERRARI,Jean-François Ferrari,male,1961-03-15,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703968,Designated Minister,Q6169248-18A76CEA-2EE1-4FE2-AF81-19C5A4223216
+Q6169248,Mr. Jean-François FERRARI,Jean-François Ferrari,male,1961-03-15,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q109703966,Minister for Fisheries,Q6169248-c174c4ee-40bb-d4b4-9a18-312cb183bae4
+Q64010186,Ahmed AFIF,Ahmed Afif,male,1967-01-06,11,https://www.statehouse.gov.sc/the-cabinet,2021-11-24,Q2688315,The Vice-President of the Republic of Seychelles,Q64010186-69051D51-8FD2-4AA4-B76D-E2D977E2231B
