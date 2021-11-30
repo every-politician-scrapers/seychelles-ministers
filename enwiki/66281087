@@ -68,18 +68,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "current seychelles cabinet"
-        },
-        {
-          "template": "seychelles-politician-stub"
-        }
-      ]
     }
   ]
 }
