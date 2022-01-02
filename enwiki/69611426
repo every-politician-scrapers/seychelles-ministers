@@ -1,0 +1,147 @@
+{
+  "title": "Errol Fonseka",
+  "pageID": 69611426,
+  "categories": [
+    "Seychellois politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Errol Fonseka is a Seychellois businessman and politician who is the current Minister of Home Affairs in the Cabinet of Seychelles.",
+              "links": [
+                {
+                  "text": "Seychellois",
+                  "type": "internal",
+                  "page": "Seychelles"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Seychelles"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Errol Fonseka"
+                ]
+              }
+            },
+            {
+              "text": "Before his venture into politics, he served 22 years in the British Armed Forces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Armed Forces"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Seychellois businessman and politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Errol Fonseka"
+          },
+          "image": {
+            "text": "Errol Fonseka.jpg"
+          },
+          "office": {
+            "text": "Minister of Home Affairs"
+          },
+          "term_start": {
+            "text": "3 November 2020"
+          },
+          "president": {
+            "text": "Myriam Telemaque",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Myriam Telemaque"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jeanne Siméon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeanne Siméon"
+              }
+            ]
+          },
+          "party": {
+            "text": "Linyon Demokratik Seselwa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linyon Demokratik Seselwa"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Cabinet",
+          "url": "https://www.statehouse.gov.sc/the-cabinet",
+          "website": "State House",
+          "access-date": "27 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Laurence",
+          "first1": "Daniel",
+          "title": "Majority of Seychelles' new cabinet of ministers sworn in to posts",
+          "url": "http://www.seychellesnewsagency.com/articles/13802/Majority+of+Seychelles%27+new+cabinet+of+ministers+sworn+in+to+posts",
+          "access-date": "27 December 2021",
+          "publisher": "Seychelles News Agency",
+          "date": "3 November 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Pointe",
+          "first1": "Elsie",
+          "title": "Five new ministers get the green light",
+          "url": "https://www.nation.sc/articles/6673/in-the-national-assembly",
+          "access-date": "27 December 2021",
+          "agency": "National Information Services Agency",
+          "publisher": "Seychelles Nation",
+          "date": "30 October 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Bonnelame",
+          "first1": "Betymie",
+          "title": "13 short biographies for Seychelles' new 13-member Cabinet of ministers",
+          "url": "http://www.seychellesnewsagency.com/articles/13810/+short+biographies+for+Seychelles%27+new+-member+Cabinet+of+ministers",
+          "access-date": "27 December 2021",
+          "publisher": "Seychelles News Agency",
+          "date": "5 November 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}
