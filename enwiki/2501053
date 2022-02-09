@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Wavel Ramkalawan (born 15 March 1959) is a Seychellois politician and Anglican priest who has been serving as the President of the Republic of Seychelles since 26 October 2020.",
+              "text": "Wavel Ramkalawan (born 15 March 1959) is a Seychellois politician and Anglican priest who has been serving as the president of Seychelles since 26 October 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -35,9 +35,9 @@
                   "page": "Anglicanism"
                 },
                 {
-                  "text": "President of the Republic of Seychelles",
+                  "text": "president of Seychelles",
                   "type": "internal",
-                  "page": "President of Seychelles"
+                  "page": "president of Seychelles"
                 }
               ],
               "formatting": {
@@ -136,13 +136,8 @@
             "text": "Mahé, Seychelles",
             "links": [
               {
-                "text": "Mahé",
                 "type": "internal",
                 "page": "Mahé, Seychelles"
-              },
-              {
-                "type": "internal",
-                "page": "Seychelles"
               }
             ]
           },
@@ -167,15 +162,6 @@
               {
                 "type": "internal",
                 "page": "University of Birmingham"
-              }
-            ]
-          },
-          "status": {
-            "text": "Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Incumbent"
               }
             ]
           }
