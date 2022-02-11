@@ -28,13 +28,26 @@
           ]
         }
       ],
-      "images": [
+      "infoboxes": [
         {
-          "file": "File:Patricia Francourt.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Patricia_Francourt.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Patricia_Francourt.jpg",
-          "caption": "Patricia Francourt",
-          "links": []
+          "name": {
+            "text": "Patricia Francourt"
+          },
+          "image": {
+            "text": "File:Patricia Francourt.jpg"
+          },
+          "occupation": {
+            "text": "Politician, banker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "title": {
+            "text": "Minister of Employment and Social Affairs"
+          }
         }
       ]
     }
