@@ -111,8 +111,17 @@
           "birth_name": {
             "text": "Louis Sylvestre Radegonde"
           },
+          "birth_place": {
+            "text": "Seychelles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seychelles"
+              }
+            ]
+          },
           "occupation": {
-            "text": "Diplomat"
+            "text": "Diplomat, politician"
           }
         }
       ]

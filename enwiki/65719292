@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Naadir Nigel Hamid Hassan (born 1981-82) is a Seychellois politician and banker.",
+              "text": "Naadir Nigel Hamid Hassan (born March 1982) is a Seychellois politician and banker.",
               "links": [
                 {
                   "text": "Seychellois",
@@ -111,7 +111,7 @@
             ]
           },
           "occupation": {
-            "text": "Banker/Politician"
+            "text": "Banker, Politician"
           }
         }
       ]
