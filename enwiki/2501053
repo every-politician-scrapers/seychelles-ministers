@@ -59,12 +59,17 @@
               ]
             },
             {
-              "text": "On 25 October 2020, Ramkalawan won the presidential election, the first such victory for an opposition candidate since independence.",
+              "text": "On 25 October 2020, Ramkalawan won the presidential election, the first such victory for an opposition candidate since independence, marking the first successful peaceful transition of power.",
               "links": [
                 {
                   "text": "presidential election",
                   "type": "internal",
                   "page": "2020 Seychellois general election"
+                },
+                {
+                  "text": "peaceful transition of power",
+                  "type": "internal",
+                  "page": "peaceful transition of power"
                 }
               ]
             }
