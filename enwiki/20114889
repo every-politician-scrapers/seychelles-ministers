@@ -1,101 +1,12 @@
 {
-  "title": "Jean-François Ferrari",
-  "pageID": 20114889,
-  "categories": [
-    "1959 births",
-    "Living people",
-    "Members of the National Assembly (Seychelles)",
-    "People from Mont Fleuri",
-    "Seychellois journalists",
-    "Seychelles National Party politicians",
-    "Seychellois people of Italian descent",
-    "Aix-Marseille University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jean-François Gabriel Ferrari (born 1959-60) is a Seychellois politician member of the National Assembly of Seychelles.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "National Assembly of Seychelles"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jean-François Gabriel Ferrari"
-                ]
-              }
-            },
-            {
-              "text": "On 3 November 2020, he was sworn in as Designated Minister and Minister of Fisheries."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Seychellois politician",
-          "template": "short description"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jean-François Ferrari"
-          },
-          "image": {
-            "text": "Jean-François Ferrari.jpg"
-          },
-          "office": {
-            "text": "Designated Minister and Minister of Fisheries"
-          },
-          "term_start": {
-            "text": "3 November 2020"
-          },
-          "president": {
-            "text": "Wavel Ramkalawan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wavel Ramkalawan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Macsuzy Mondon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Macsuzy Mondon"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Jean-François Gabriel Ferrari"
-          },
-          "birth_date": {
-            "text": "1959-60"
-          },
-          "party": {
-            "text": "Seychelles National Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seychelles National Party"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Journalist, politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jean-François Ferrari",
+  "image": "Jean-François Ferrari.jpg",
+  "office": "Designated Minister and Minister of Fisheries",
+  "term_start": "3 November 2020",
+  "president": "Wavel Ramkalawan",
+  "predecessor": "Macsuzy Mondon",
+  "birth_name": "Jean-François Gabriel Ferrari",
+  "birth_date": "1959-60",
+  "party": "Seychelles National Party",
+  "occupation": "Journalist, politician"
 }

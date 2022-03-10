@@ -1,55 +1,6 @@
 {
-  "title": "Patricia Francourt",
-  "pageID": 66281087,
-  "categories": [
-    "Living people",
-    "Women government ministers of Seychelles",
-    "Women bankers",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Patricia Francourt is a Seychellois banker serving as their Minister of Employment and Social Affairs.",
-              "formatting": {
-                "bold": [
-                  "Patricia Francourt"
-                ]
-              }
-            },
-            {
-              "text": "She was sworn in on 3 November 2020."
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Patricia Francourt"
-          },
-          "image": {
-            "text": "File:Patricia Francourt.jpg"
-          },
-          "occupation": {
-            "text": "Politician, banker",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              }
-            ]
-          },
-          "title": {
-            "text": "Minister of Employment and Social Affairs"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Patricia Francourt",
+  "image": "File:Patricia Francourt.jpg",
+  "occupation": "Politician, banker",
+  "title": "Minister of Employment and Social Affairs"
 }

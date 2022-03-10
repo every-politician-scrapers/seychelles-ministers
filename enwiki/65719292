@@ -1,120 +1,13 @@
 {
-  "title": "Naadir Hassan",
-  "pageID": 65719292,
-  "categories": [
-    "1980s births",
-    "Living people",
-    "Government ministers of Seychelles",
-    "Seychellois economists",
-    "People from Anse Royale"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Naadir Nigel Hamid Hassan (born March 1982) is a Seychellois politician and banker.",
-              "links": [
-                {
-                  "text": "Seychellois",
-                  "type": "internal",
-                  "page": "Seychelles"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Naadir Nigel Hamid Hassan"
-                ]
-              }
-            },
-            {
-              "text": "He serves as the Minister of Finance, Economic Planning and Trade since 3 November 2020, succeeding Maurice Loustau-Lalanne.",
-              "links": [
-                {
-                  "text": "Minister of Finance, Economic Planning and Trade",
-                  "type": "internal",
-                  "page": "Minister of Finance (Seychelles)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Maurice Loustau-Lalanne"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Naadir Hassan"
-          },
-          "image": {
-            "text": "Naadir Hassan.jpg"
-          },
-          "office": {
-            "text": "Minister of Finance, Economic Planning and Trade",
-            "links": [
-              {
-                "text": "Minister of Finance, Economic Planning and Trade",
-                "type": "internal",
-                "page": "Minister of Finance (Seychelles)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "3 November 2020"
-          },
-          "president": {
-            "text": "Wavel Ramkalawan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wavel Ramkalawan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Maurice Loustau-Lalanne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maurice Loustau-Lalanne"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Naadir Nigel Hamid Hassan"
-          },
-          "birth_date": {
-            "text": "March 1982"
-          },
-          "birth_place": {
-            "text": "Victoria, Seychelles"
-          },
-          "party": {
-            "text": "Linyon Demokratik Seselwa",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Linyon Demokratik Seselwa"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Banker, Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Naadir Hassan",
+  "image": "Naadir Hassan.jpg",
+  "office": "Minister of Finance, Economic Planning and Trade",
+  "term_start": "3 November 2020",
+  "president": "Wavel Ramkalawan",
+  "predecessor": "Maurice Loustau-Lalanne",
+  "birth_name": "Naadir Nigel Hamid Hassan",
+  "birth_date": "March 1982",
+  "birth_place": "Victoria, Seychelles",
+  "party": "Linyon Demokratik Seselwa",
+  "occupation": "Banker, Politician"
 }
