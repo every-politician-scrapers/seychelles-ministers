@@ -1,114 +1,12 @@
 {
-  "title": "Devika Vidot",
-  "pageID": 65774161,
-  "categories": [
-    "1988 births",
-    "Living people",
-    "Government ministers of Seychelles",
-    "Women government ministers of Seychelles",
-    "Alumni of the University of Manchester",
-    "Seychellois accountants",
-    "People from Takamaka, Seychelles",
-    "Seychellois people of Indian descent"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Devika Sumitra Kathrina Vidot (born in Takamaka in November 1988) is a Seychellois accountant and politician.",
-              "links": [
-                {
-                  "text": "Seychellois",
-                  "type": "internal",
-                  "page": "Seychelles"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Devika Sumitra Kathrina Vidot"
-                ]
-              }
-            },
-            {
-              "text": "Since 3 November 2020, she serves as Minister of Investment, Entrepreneurship and Industry."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Seychellois politician",
-          "template": "short description"
-        },
-        {
-          "date": "November 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1988",
-          "month": "11",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Devika Vidot"
-          },
-          "image": {
-            "text": "Devika Vidot.jpg"
-          },
-          "office": {
-            "text": "Minister of Investment, Entrepreneurship and Industry"
-          },
-          "term_start": {
-            "text": "3 November 2020"
-          },
-          "president": {
-            "text": "Wavel Ramkalawan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wavel Ramkalawan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Vincent Mériton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vincent Mériton"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Devika Sumitra Kathrina Vidot"
-          },
-          "birth_date": {
-            "text": "November 18, 1988"
-          },
-          "birth_place": {
-            "text": "Takamaka, Seychelles",
-            "links": [
-              {
-                "text": "Takamaka",
-                "type": "internal",
-                "page": "Takamaka, Seychelles"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Accountant, politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Devika Vidot",
+  "image": "Devika Vidot.jpg",
+  "office": "Minister of Investment, Entrepreneurship and Industry",
+  "term_start": "3 November 2020",
+  "president": "Wavel Ramkalawan",
+  "predecessor": "Vincent Mériton",
+  "birth_name": "Devika Sumitra Kathrina Vidot",
+  "birth_date": "November 18, 1988",
+  "birth_place": "Takamaka, Seychelles",
+  "occupation": "Accountant, politician"
 }

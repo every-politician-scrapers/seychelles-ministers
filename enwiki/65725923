@@ -1,92 +1,11 @@
 {
-  "title": "Peggy Vidot",
-  "pageID": 65725923,
-  "categories": [
-    "1950s births",
-    "Living people",
-    "Government ministers of Seychelles",
-    "Women government ministers of Seychelles",
-    "Alumni of the University of Manchester",
-    "Seychellois nurses",
-    "Seychellois midwives"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Peggy Antoinette Vidot (born 1958–59) is a Seychellois nurse and midwife.",
-              "links": [
-                {
-                  "text": "Seychellois",
-                  "type": "internal",
-                  "page": "Seychelles"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Peggy Antoinette Vidot"
-                ]
-              }
-            },
-            {
-              "text": "Since 3 November 2020, she serves as the Minister of Health."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "October 2020",
-          "template": "use dmy dates"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Peggy Vidot"
-          },
-          "image": {
-            "text": "Peggy Vidot (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Health"
-          },
-          "term_start": {
-            "text": "3 November 2020"
-          },
-          "president": {
-            "text": "Wavel Ramkalawan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wavel Ramkalawan"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Jean-Paul Adam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jean-Paul Adam"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Peggy Antoinette Vidot"
-          },
-          "birth_date": {
-            "text": "1958–59"
-          },
-          "occupation": {
-            "text": "Nurse, midwife"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Peggy Vidot",
+  "image": "Peggy Vidot (cropped).jpg",
+  "office": "Minister of Health",
+  "term_start": "3 November 2020",
+  "president": "Wavel Ramkalawan",
+  "predecessor": "Jean-Paul Adam",
+  "birth_name": "Peggy Antoinette Vidot",
+  "birth_date": "1958–59",
+  "occupation": "Nurse, midwife"
 }
