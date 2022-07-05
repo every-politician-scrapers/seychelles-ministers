@@ -1,0 +1,21 @@
+{
+    "jurisdiction": {
+      "name": "Seychelles",
+      "id": "Q1042"
+    },
+    "cabinet": {
+      "name": "Ramkalawan Cabinet",
+      "id": "Q109703564",
+      "start": "2020-10-31",
+      "parent": "Q28454162"
+    },
+    "source": {
+        "url":   "https://www.statehouse.gov.sc/the-cabinet",
+        "title": "The Cabinet - State House Seychelles | Office of the President",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/seychelles-ministers"
+}
