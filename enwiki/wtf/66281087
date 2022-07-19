@@ -1,0 +1,113 @@
+{
+  "title": "Patricia Francourt",
+  "pageID": 66281087,
+  "categories": [
+    "Living people",
+    "Women government ministers of Seychelles",
+    "Women bankers",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Patricia Francourt is a Seychellois banker serving as their Minister of Employment and Social Affairs.",
+              "links": [
+                {
+                  "text": "Seychellois",
+                  "type": "internal",
+                  "page": "Seychelles"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Patricia Francourt"
+                ]
+              }
+            },
+            {
+              "text": "She was sworn in on 3 November 2020."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Patricia Francourt"
+          },
+          "image": {
+            "text": "File:Patricia Francourt.jpg"
+          },
+          "occupation": {
+            "text": "Politician, banker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              }
+            ]
+          },
+          "title": {
+            "text": "Minister of Employment and Social Affairs"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Getting to know our ministers ‒ Employment and Social Affairs Minister Patricia Francourt",
+          "url": "http://www.employment.gov.sc/media-centre/publications/281-getting-to-know-our-ministers-employment-and-social-affairs-minister-patricia-francourt",
+          "access-date": "2022-03-30",
+          "website": "www.employment.gov.sc",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nation.sc/articles/6658/assembly-approves-nomination-of-three-ministers",
+          "title": "Assembly approves nomination of three ministers",
+          "website": "Nation of Seychelles",
+          "accessdate": "30 October 2020",
+          "date": "29 October 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Getting to know our ministers ‒ Employment and Social Affairs Minister Patricia Francourt",
+          "url": "http://www.nation.sc/articles/6833/getting-to-know-our-ministers--employment-and-social-affairs-minister-patricia-francourt",
+          "access-date": "3 January 2021",
+          "publisher": "Seychelles Nation",
+          "date": "November 17, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Laurence",
+          "first1": "Daniel",
+          "title": "Majority of Seychelles' new cabinet of ministers sworn in to posts",
+          "url": "http://www.seychellesnewsagency.com/articles/13802/Majority+of+Seychelles%27+new+cabinet+of+ministers+sworn+in+to+posts",
+          "access-date": "3 January 2021",
+          "publisher": "Seychelles News Agency",
+          "date": "November 3, 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "current seychelles cabinet"
+        },
+        {
+          "template": "seychelles-politician-stub"
+        }
+      ]
+    }
+  ]
+}
