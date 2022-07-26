@@ -1,12 +1,12 @@
-pageid,title
-2501053,Wavel Ramkalawan
-20114889,Jean-François Ferrari
-51257675,Caroline Abel
-65699122,Ahmed Afif
-65719292,Naadir Hassan
-65720070,Justin Valentin
-65725923,Peggy Vidot
-65751090,Sylvestre Radegonde
-65774161,Devika Vidot
-66281087,Patricia Francourt
-69611426,Errol Fonseka
+pageid,title,wikidata,label
+2501053,Wavel Ramkalawan,Q1568174,Wavel Ramkalawan
+20114889,Jean-François Ferrari,Q6169248,Jean-François Ferrari
+51257675,Caroline Abel,Q16161140,Caroline Abel
+65699122,Ahmed Afif,Q64010186,Ahmed Afif
+65719292,Naadir Hassan,Q101005240,Naadir Hassan
+65720070,Justin Valentin,Q101007296,Justin Valentin
+65725923,Peggy Vidot,Q101038872,Peggy Vidot
+65751090,Sylvestre Radegonde,Q101110528,Sylvestre Radegonde
+65774161,Devika Vidot,Q101198923,Devika Vidot
+66281087,Patricia Francourt,Q101198632,Patricia Francourt
+69611426,Errol Fonseka,Q109703822,Errol Fonseka
